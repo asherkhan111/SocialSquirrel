@@ -1,0 +1,4 @@
+c:\users\asher\documents\visual studio 2010\Projects\SocialSquirrel\SocialSquirrel\bin\Debug\SocialSquirrel.exe
+c:\users\asher\documents\visual studio 2010\Projects\SocialSquirrel\SocialSquirrel\bin\Debug\SocialSquirrel.pdb
+c:\users\asher\documents\visual studio 2010\Projects\SocialSquirrel\SocialSquirrel\obj\x86\Debug\SocialSquirrel.exe
+c:\users\asher\documents\visual studio 2010\Projects\SocialSquirrel\SocialSquirrel\obj\x86\Debug\SocialSquirrel.pdb
